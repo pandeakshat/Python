@@ -9,4 +9,9 @@ Content :
 - Data Science projects based on Python
 
 
+
+Project 1: Coin Change Game
+
+Coin changes to be given back based on cost and amount given.
+
 Akshat Pande
