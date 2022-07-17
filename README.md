@@ -14,4 +14,8 @@ Project 1: Coin Change Game
 
 Coin changes to be given back based on cost and amount given.
 
+Project 2 : WordCloud Poetry
+
+Word cloud using poetry and other different visualizations.
+
 Akshat Pande
